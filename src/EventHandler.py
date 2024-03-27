@@ -12,6 +12,6 @@ def runBot():
             return
 
         if client.user.mentioned_in(message):
-            await messageManager.sendMessage(message)
+            await MessageManager.sendMessage(message)
 
     client.run(apiKey)
