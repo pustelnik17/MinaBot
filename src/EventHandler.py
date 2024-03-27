@@ -1,5 +1,5 @@
 import discord
-import messageManager
+import MessageManager
 from API_KEY import apiKey
 
 

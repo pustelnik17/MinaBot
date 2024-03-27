@@ -1,4 +1,4 @@
-import randomGifManager
+import RandomGifManager
 
 
 async def sendMessage(message):
